@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "key": "$base-border-radius",
+            "value": "6px"
+        },
+        {
+            "key": "$base-focus-bg",
+            "value": "rgba(0, 0, 0, 0.4)"
+        },
+        {
+            "key": "$base-font-family",
+            "value": "\"Poppins\", \"Roboto\", \"RobotoFallback\", \"Noto Kufi Arabic\", \"Helvetica\", \"Arial\", sans-serif"
+        }
+    ],
+    "baseTheme": "material.blue.light.compact",
+    "outputColorScheme": "custom-scheme",
+    "makeSwatch": false,
+    "version": "21.2.3",
+    "widgets": [],
+    "removeExternalResources": false
+}
